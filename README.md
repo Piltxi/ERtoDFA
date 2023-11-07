@@ -77,5 +77,5 @@ make debug
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@piltxi]
+- [@piltxi] - https://github.com/Piltxi/
 
