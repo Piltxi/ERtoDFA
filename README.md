@@ -62,7 +62,7 @@ make
 ### Run
 
 ```
-make debuga
+make debug
 ```
 
 ```
