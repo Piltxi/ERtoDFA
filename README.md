@@ -50,7 +50,7 @@ and testing purposes. See [deployment](#deployment) for notes on how to deploy t
 
 ### Clone repository
 ```
-git clone hhh
+git clone https://github.com/Piltxi/ERtoDFA
 ```
 
 ### Installing
