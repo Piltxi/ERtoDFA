@@ -1,3 +1,6 @@
 284660/
 *.out
 *.o
+.vscode/
+obj/
+automaton
